@@ -4,7 +4,7 @@
 #### Contents
 
 - [Sketch Plugins](####SketchPlugins)
-- [Color](####color)
+- [FrontEnd](####FrontEnd)
 - [Typography](#typography)
 
 #### Sketch Plugins
