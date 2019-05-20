@@ -3,7 +3,7 @@
 
 #### Contents
 
-- [Sketch Plugins](####Sketch Plugins)
+- [Sketch Plugins](####SketchPlugins)
 - [Color](####color)
 - [Typography](#typography)
 
