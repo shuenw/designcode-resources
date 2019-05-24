@@ -2,7 +2,6 @@
 # Guide
 
 #### Contents
-
 - [Sketch Plugins](####SketchPlugins)
 - [FrontEnd](####FrontEnd)
 - [Typography](#typography)
@@ -13,6 +12,9 @@
 - [Symbol Instance Renamer](https://github.com/sonburn/symbol-instance-renamer) "Rename symbols to source"
 - [Select Similar Layers](https://github.com/wonderbit/sketch-select-similar-layers) "Select similar layers"
 - [Automate Sketch](https://github.com/Ashung/Automate-Sketch) "File cleanup"
+
+#### Framer X
+- [Overrides](https://framerbook.com/x/overrides/) "Framer Book - Framer X Overrides"
 
 #### Front End
 - [CSS Scan](https://getcssscan.com/?ref=producthunt) "fastest way to inspect CSS"
@@ -33,3 +35,4 @@
 
 #### Photo Editing
 - [Remove BG](https://www.producthunt.com/posts/remove-bg-for-desktop) "remove any background"
+
