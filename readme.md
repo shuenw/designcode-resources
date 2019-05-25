@@ -40,3 +40,6 @@
 - [Typographic Color](http://uniform.hudl.com/guidelines/colors/content/design/) "Uniform colors for typography"
 - [Typography in Design Systems](https://medium.com/eightshapes-llc/typography-in-design-systems-6ed771432f1e) "EightShapes"
 
+### Design System Examples
+- [Hudl Uniform DSL](http://uniform.hudl.com) "Hudl Design System"
+- [IBM Carbon DSL](https://www.carbondesignsystem.com) "Carbon Design System"
