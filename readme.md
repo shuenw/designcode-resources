@@ -26,6 +26,7 @@
 #### Icons
 - [Material Icons Library](https://icons.pixsellz.io) "Complete Icon Kit for Sketch / Figma"
 - [Feather Icon Library](https://feathericons.com) "279 open source icons in SVG"
+- [Feather Micro-Animations](https://useanimations.com/?ref=producthunt#explore) "Animated icons in Lottie Framework and After Effects for immediate implementation to your apps or websites."
 
 #### Images
 - Free transparent images https://imgbin.com
