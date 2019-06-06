@@ -39,6 +39,8 @@
 #### Photo Editing
 - [Remove BG](https://www.producthunt.com/posts/remove-bg-for-desktop) "remove any background"
 
+---
+
 ## Interaction Design
 
 #### Framer X
