@@ -19,6 +19,9 @@
 - [Select Similar Layers](https://github.com/wonderbit/sketch-select-similar-layers) "Select similar layers"
 - [Automate Sketch](https://github.com/Ashung/Automate-Sketch) "File cleanup"
 
+### Design VC
+- [Abstract](https://www.abstract.com/) "The modern design workflow"
+- [PlantApp](https://plantapp.io/) "Version control for designers"
 
 ## Visual Design
 
@@ -42,15 +45,17 @@
 #### Framer X
 - [Overrides](https://framerbook.com/x/overrides/) "Framer Book - Framer X Overrides"
 
-#### Other Great Tools
+#### Interaction Design Tools
 - [Protopie](https://gitlab.com) "The way you speak, the way you prototype."
 - [UX Pin](https://www.uxpin.com/) "If you can imagine it, you can design it.
 Design, prototype, collaborate all in one place."
 
+#### Animation
+- [Lottie](https://lottiefiles.com) "The Future of Animations and Interactive Design."
 
 ## Front End Design
 
-#### Frontend Tools
+#### UI Layout
 - [CSS Grid Generator](https://cssgrid-generator.netlify.com/?ref=producthunt) "generate CSS grids"
 - [Flexbox Cheatsheet](https://yoksel.github.io/flex-cheatsheet/#display) "Flexbox Cheatsheet"
 
@@ -70,6 +75,7 @@ Design, prototype, collaborate all in one place."
 
 #### Usability Testing
 - [Use Berry](https://www.useberry.com) "User testing feedback & rich insights in minutes, not months!"
+- [Usability Hub](https://usabilityhub.com/) "Remote user testing"
 
 #### Design Case Stuides
 - [Clay Case Studies](https://clay.global/news/ux-design-agency-deliverables/) "UX Design Deliverables"
