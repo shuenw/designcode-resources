@@ -30,6 +30,9 @@
 #### Usability Testing
 - [Use Berry](https://www.useberry.com) "User testing feedback & rich insights in minutes, not months!"
 
+#### Design Case Stuides
+- [Clay Case Studies](https://clay.global/news/ux-design-agency-deliverables/) "UX Design Deliverables"
+
 #### Icons
 - [Material Icons Library](https://icons.pixsellz.io) "Complete Icon Kit for Sketch / Figma"
 - [Feather Icon Library](https://feathericons.com) "279 open source icons in SVG"
