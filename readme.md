@@ -3,12 +3,10 @@
 
 
 #### Contents
-**Find What You Need**
 - [Sketch Plugins](#Sketch-Plugins)
 - [Frontend Tools](#Frontend-Tools)
 - [Typography](#Typography)
 
----
 
 ## UI Design
 
