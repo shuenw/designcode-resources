@@ -1,11 +1,14 @@
 
 ## Guide
-
+> This is an opinionated repo specifically geared towards end to end product design workflows.
 
 #### Contents
 - [Sketch Plugins](#Sketch-Plugins)
 - [Frontend Tools](#Frontend-Tools)
 - [Typography](#Typography)
+
+#### Other Design Resources
+- [Awesome-Design](https://github.com/gztchan/awesome-design)
 
 ## UI Design
 
