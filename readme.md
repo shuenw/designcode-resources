@@ -22,7 +22,7 @@
 - [Select Similar Layers](https://github.com/wonderbit/sketch-select-similar-layers) "Select similar layers"
 - [Automate Sketch](https://github.com/Ashung/Automate-Sketch) "File cleanup"
 
-### Design VC
+#### Design Versioning
 - [Abstract](https://www.abstract.com/) "The modern design workflow"
 - [PlantApp](https://plantapp.io/) "Version control for designers"
 
