@@ -7,6 +7,7 @@
 - [Frontend Tools](#Frontend-Tools)
 - [Typography](#Typography)
 
+---
 
 ## UI Design
 
@@ -20,7 +21,7 @@
 - [Select Similar Layers](https://github.com/wonderbit/sketch-select-similar-layers) "Select similar layers"
 - [Automate Sketch](https://github.com/Ashung/Automate-Sketch) "File cleanup"
 
---
+---
 
 ## Visual Design
 
@@ -43,7 +44,7 @@
 #### Framer X
 - [Overrides](https://framerbook.com/x/overrides/) "Framer Book - Framer X Overrides"
 
---
+---
 
 ## Front End Design
 
@@ -54,7 +55,7 @@
 - [CSS Scan](https://getcssscan.com/?ref=producthunt) "fastest way to inspect CSS"
 - [Sketch to SPA](https://github.com/xlayers/xlayers) "convert Sketch UI into framework components"
 
---
+---
 
 ## User Experience
 
@@ -64,7 +65,7 @@
 #### Design Case Stuides
 - [Clay Case Studies](https://clay.global/news/ux-design-agency-deliverables/) "UX Design Deliverables"
 
---
+---
 
 #### Design Systems
 - [Typographic Color](http://uniform.hudl.com/guidelines/colors/content/design/) "Uniform colors for typography"
