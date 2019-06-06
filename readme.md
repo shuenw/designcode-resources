@@ -2,9 +2,9 @@
 # Guide
 
 #### Contents
-- [Sketch Plugins](####SketchPlugins)
-- [FrontEnd](####FrontEnd)
-- [Typography](#typography)
+- [Sketch Plugins](#Sketch-Plugins)
+- [Front End Tools](#Front-End-Tools)
+- [Typography](#Typography)
 
 #### UI Inspiration
 - [Muzli Search](https://search.muz.li/?utm_source=product_hunt&utm_medium=referral&utm_campaign=muzli_search&ref=producthunt) "Web-wide search for design inspiration"
