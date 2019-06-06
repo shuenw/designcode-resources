@@ -42,15 +42,22 @@
 #### Framer X
 - [Overrides](https://framerbook.com/x/overrides/) "Framer Book - Framer X Overrides"
 
+#### Other Great Tools
+- [Protopie](https://gitlab.com) "The way you speak, the way you prototype."
+- [UX Pin](https://www.uxpin.com/) "If you can imagine it, you can design it.
+Design, prototype, collaborate all in one place."
+
 
 ## Front End Design
 
 #### Frontend Tools
 - [CSS Grid Generator](https://cssgrid-generator.netlify.com/?ref=producthunt) "generate CSS grids"
+- [Flexbox Cheatsheet](https://yoksel.github.io/flex-cheatsheet/#display) "Flexbox Cheatsheet"
 
 #### Frontend Handoff
 - [CSS Scan](https://getcssscan.com/?ref=producthunt) "fastest way to inspect CSS"
 - [Sketch to SPA](https://github.com/xlayers/xlayers) "convert Sketch UI into framework components"
+
 
 
 ## User Experience
