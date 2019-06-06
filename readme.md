@@ -58,6 +58,12 @@ Design, prototype, collaborate all in one place."
 - [CSS Scan](https://getcssscan.com/?ref=producthunt) "fastest way to inspect CSS"
 - [Sketch to SPA](https://github.com/xlayers/xlayers) "convert Sketch UI into framework components"
 
+#### Code Documentation
+- [Gitlab](https://gitlab.com/) "A single application for the entire software development lifecycle."
+
+#### Staging & Hosting
+- [Sourcetree](https://www.sourcetreeapp.com) "Simplicity and power in a beautiful Git GUI"
+- [Netlify](https://www.netlify.com) "One workflow.From local development to global deployment."
 
 
 ## User Experience
