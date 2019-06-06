@@ -7,8 +7,6 @@
 - [Frontend Tools](#Frontend-Tools)
 - [Typography](#Typography)
 
----
-
 ## UI Design
 
 #### UI Inspiration
