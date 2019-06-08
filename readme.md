@@ -2,17 +2,11 @@
 ## Design Code Tools
 > This is an opinionated repo specifically geared towards end to end product design workflows.
 
-#### Other Guide Recommendations
-- [LisaDziuba](https://github.com/LisaDziuba/Awesome-Design-Tools) "Awesome Design Tools"
-- [DesignRevision](https://designrevision.com/blog/) "Design Revision"
-
 #### Contents
 - [Sketch Plugins](#Sketch-Plugins)
 - [Frontend Tools](#Frontend-Tools)
 - [Typography](#Typography)
 
-#### Other Design Resources
-- [Awesome-Design](https://github.com/gztchan/awesome-design)
 
 ## UI Design
 
@@ -106,3 +100,10 @@ Design, prototype, collaborate all in one place."
 
 ## Presentation
 - [Mockmatic](https://store.framer.com/package/djfumberger/mockmatic) "Mockups in Framer X"
+
+---
+
+#### Other Guide Recommendations
+- [LisaDziuba](https://github.com/LisaDziuba/Awesome-Design-Tools) "Awesome Design Tools"
+- [DesignRevision](https://designrevision.com/blog/) "Design Revision"
+- [Awesome-Design](https://github.com/gztchan/awesome-design)
