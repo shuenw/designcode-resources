@@ -3,8 +3,8 @@
 > This is an opinionated repo specifically geared towards end to end product design workflows.
 
 #### Other Guide Recommendations
-[LisaDziuba](https://github.com/LisaDziuba/Awesome-Design-Tools) "Awesome Design Tools"
-[DesignRevision](https://designrevision.com/blog/) "Design Revision"
+- [LisaDziuba](https://github.com/LisaDziuba/Awesome-Design-Tools) "Awesome Design Tools"
+- [DesignRevision](https://designrevision.com/blog/) "Design Revision"
 
 #### Contents
 - [Sketch Plugins](#Sketch-Plugins)
