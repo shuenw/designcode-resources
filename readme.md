@@ -1,6 +1,9 @@
 
-## Guide
+## Design Code Tools
 > This is an opinionated repo specifically geared towards end to end product design workflows.
+
+## Other Guide Recommendations
+[LisaDziuba](https://github.com/LisaDziuba/Awesome-Design-Tools) "Awesome Design Tools"
 
 #### Contents
 - [Sketch Plugins](#Sketch-Plugins)
@@ -14,6 +17,9 @@
 
 #### UI Inspiration
 - [Muzli Search](https://search.muz.li/?utm_source=product_hunt&utm_medium=referral&utm_campaign=muzli_search&ref=producthunt) "Web-wide search for design inspiration"
+- [UIJar](https://uijar.com) "Handpicked design inspiration for your real life projects"
+- [HeyNishi](https://www.heynishi.com) "The Place to Go for Copywriting Inspiration"
+
 
 #### Sketch Plugins
 ** Organization **
@@ -93,3 +99,6 @@ Design, prototype, collaborate all in one place."
 #### DS Examples
 - [Hudl Uniform DSL](http://uniform.hudl.com) "Hudl Design System"
 - [IBM Carbon DSL](https://www.carbondesignsystem.com) "Carbon Design System"
+
+## Presentation
+- [Mockmatic](https://store.framer.com/package/djfumberger/mockmatic) "Mockups in Framer X"
