@@ -12,6 +12,7 @@
 
 #### User Interface
 - [UI Design Knowledge Base](https://www.waveguide.io) "design knowledge bank"
+- [Webframe](https://webframe.xyz/?ref=producthunt) web app examples
 - [UI PatternFly](https://www.patternfly.org) "A community of designers and developers collaborating to build a UI framework for enterprise web applications."
 - [Muzli Search](https://search.muz.li/?utm_source=product_hunt&utm_medium=referral&utm_campaign=muzli_search&ref=producthunt) "Web-wide search for design inspiration"
 - [UIJar](https://uijar.com) "Handpicked design inspiration for your real life projects"
