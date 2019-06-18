@@ -52,6 +52,7 @@
 
 #### Framer X
 - [Overrides](https://framerbook.com/x/overrides/) "Framer Book - Framer X Overrides"
+- [Framer React Guide](https://paper.dropbox.com/doc/Framer-ES6-React-Guide--AfOVBiAEfZnaSBJ9FicRqEamAg-Th7joG9fFSSiyZgOFYqj6) "Framer ES6/React Guide"
 
 #### Interaction Design Tools
 - [Protopie](https://gitlab.com) "The way you speak, the way you prototype."
