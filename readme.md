@@ -43,6 +43,7 @@
 
 #### Illustrations
 - [unDraw Library](https://undraw.co/illustrations) "Open-source illustrations for every project you can imagine"
+- [Stubborn Illustrations](https://stubborn.fun/) "Create your own illustrations"
 
 #### Photo Editing
 - [Remove BG](https://www.producthunt.com/posts/remove-bg-for-desktop) "remove any background"
