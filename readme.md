@@ -54,7 +54,7 @@
 #### Framer X
 - [Overrides](https://framerbook.com/x/overrides/) "Framer Book - Framer X Overrides"
 - [Framer React Guide](https://paper.dropbox.com/doc/Framer-ES6-React-Guide--AfOVBiAEfZnaSBJ9FicRqEamAg-Th7joG9fFSSiyZgOFYqj6) "Framer ES6/React Guide"
-- [Learn Design SYstem](https://framer-learn-docs.netlify.com/) Design system tutorial
+- [Learn Design System](https://framer-learn-docs.netlify.com/) Design system tutorial
 
 #### Interaction Design Tools
 - [Protopie](https://gitlab.com) "The way you speak, the way you prototype."
