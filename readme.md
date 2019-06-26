@@ -44,6 +44,7 @@
 - [HSL in CSS](https://chromatichq.com/blog/understanding-and-using-hsl-your-css) "Understanding HSL in CSS"
 
 #### Icons
+- [Streamline Icons](https://www.streamlineicons.com) "30,000 icons, world's largest icon library"
 - [Material Icons Library](https://icons.pixsellz.io) "Complete Icon Kit for Sketch / Figma"
 - [Feather Icon Library](https://feathericons.com) "279 open source icons in SVG"
 - [Feather Micro-Animations](https://useanimations.com/?ref=producthunt#explore) "Animated icons in Lottie/AE for implementation"
