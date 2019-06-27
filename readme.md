@@ -114,6 +114,9 @@ Design, prototype, collaborate all in one place."
 - [Sourcetree](https://www.sourcetreeapp.com) "Simplicity and power in a beautiful Git GUI"
 - [Netlify](https://www.netlify.com) "One workflow.From local development to global deployment."
 
+### UI Render Testing
+- [Sizzy Browser](https://sizzy.co/?ref=producthunt) "The browser made for responsive design"
+
 
 ## User Experience
 
