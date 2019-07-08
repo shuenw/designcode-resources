@@ -102,6 +102,7 @@ Design, prototype, collaborate all in one place."
 #### UI Layout
 - [CSS Grid Generator](https://cssgrid-generator.netlify.com/?ref=producthunt) "generate CSS grids"
 - [Flexbox Cheatsheet](https://yoksel.github.io/flex-cheatsheet/#display) "Flexbox Cheatsheet"
+- [New CSS in Production](https://sidigital.co/blog/bringing-new-css-techniques-to-production) "Bringing new CSS techniques to production"
 
 #### Frontend Handoff
 - [CSS Scan](https://getcssscan.com/?ref=producthunt) "fastest way to inspect CSS"
