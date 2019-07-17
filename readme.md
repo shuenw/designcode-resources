@@ -56,6 +56,7 @@
 
 #### Illustrations
 - [unDraw Library](https://undraw.co/illustrations) "Open-source illustrations for every project you can imagine"
+- [Designmodo Pack](http://market.designmodo.com/illustration-creator/) "($38) 300+ Illustrations 50+ Scenes"
 - [Stubborn Illustrations](https://stubborn.fun/) "Create your own illustrations"
 - [Humaaans](https://www.humaaans.com/?ref=producthunt) "Mix and match illustrations"
 - [Icons8 Ouch Illustrations](https://icons8.com/ouch?ref=producthunt) "Free vector illustrations"
