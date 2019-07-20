@@ -69,6 +69,10 @@
 - [Golden Ratio calculator](https://grtcalculator.com) "Calculate ratios for typesizes"
 - [Font Spark](https://fontspark.app) "Discover better fonts"
 
+## Typefaces
+- [Inter UI](https://github.com/rsms/inter) "Inter UI Typeface"
+- [Metropolis](https://github.com/chrismsimpson/Metropolis) "A modern, geometric typeface"
+
 #### Photo Editing
 - [Remove BG](https://www.producthunt.com/posts/remove-bg-for-desktop) "remove any background"
 
