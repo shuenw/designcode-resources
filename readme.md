@@ -64,12 +64,14 @@
 - [Blobmaker](https://www.blobmaker.app) "Blobmaker"
 
 ## Typography
+
+#### Typesetting
 - [Zellkw Type Vertical Rhythm](https://zellwk.com/blog/why-vertical-rhythms/) "Why is Vertical Rhythm an Important?"
 - [Typography.js](http://kyleamathews.github.io/typography.js/) "A powerful toolkit for building websites with beautiful design."
 - [Golden Ratio calculator](https://grtcalculator.com) "Calculate ratios for typesizes"
 - [Font Spark](https://fontspark.app) "Discover better fonts"
 
-## Typefaces
+#### Typefaces
 - [Inter UI](https://github.com/rsms/inter) "Inter UI Typeface"
 - [Metropolis](https://github.com/chrismsimpson/Metropolis) "A modern, geometric typeface"
 
