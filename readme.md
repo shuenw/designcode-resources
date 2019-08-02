@@ -137,6 +137,9 @@ Design, prototype, collaborate all in one place."
 - [Use Berry](https://www.useberry.com) "User testing feedback & rich insights in minutes, not months!"
 - [Usability Hub](https://usabilityhub.com/) "Remote user testing"
 
+### User Journeys
+- [User flow design inspiration](https://pageflows.com/?ref=producthunt) "User flow videos & screenshots to inspire you when you're stuck"
+
 #### Accessibility
 - [Funkify](https://www.funkify.org) "A disability simulator for the web"
 
