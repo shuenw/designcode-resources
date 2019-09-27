@@ -61,6 +61,7 @@
 - [Stubborn Illustrations](https://stubborn.fun/) "Create your own illustrations"
 - [Humaaans](https://www.humaaans.com/?ref=producthunt) "Mix and match illustrations"
 - [Icons8 Ouch Illustrations](https://icons8.com/ouch?ref=producthunt) "Free vector illustrations"
+- [Glaze Illustrations](https://www.glazestock.com/) "Free illustration library"
 - [Taste Minty](https://tasteminty.com) "Find an Illustrator"
 - [Blobmaker](https://www.blobmaker.app) "Blobmaker"
 
