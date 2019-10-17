@@ -64,6 +64,7 @@
 - [Glaze Illustrations](https://www.glazestock.com/) "Free illustration library"
 - [Taste Minty](https://tasteminty.com) "Find an Illustrator"
 - [Blobmaker](https://www.blobmaker.app) "Blobmaker"
+- [Doodle](https://www.opendoodles.com/?ref=producthunt) "Open Doodles"
 
 ## Typography
 
