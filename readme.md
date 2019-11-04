@@ -56,6 +56,7 @@
 - [Moose Photos](https://photos.icons8.com/creator?ref=producthunt) "Don't search for stock photos, create them."
 
 #### Illustrations
+- [Smash Illustration Creator](https://usesmash.com/?ref=producthunt)"Let your fantasy run with 250+ illustrations to create unique scenes"
 - [unDraw Library](https://undraw.co/illustrations) "Open-source illustrations for every project you can imagine"
 - [Designmodo Pack](http://market.designmodo.com/illustration-creator/) "($38) 300+ Illustrations 50+ Scenes"
 - [Stubborn Illustrations](https://stubborn.fun/) "Create your own illustrations"
