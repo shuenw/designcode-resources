@@ -80,6 +80,9 @@
 - [Inter UI](https://github.com/rsms/inter) "Inter UI Typeface"
 - [Metropolis](https://github.com/chrismsimpson/Metropolis) "A modern, geometric typeface"
 
+#### Type Tools
+- [Glyphy](https://www.glyphy.io/?ref=producthunt) "Copy and paste glyphs"
+
 #### Photo Editing
 - [Remove BG](https://www.producthunt.com/posts/remove-bg-for-desktop) "remove any background"
 
