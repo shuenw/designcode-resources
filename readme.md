@@ -119,6 +119,9 @@ Design, prototype, collaborate all in one place."
 - [Flexbox Cheatsheet](https://yoksel.github.io/flex-cheatsheet/#display) "Flexbox Cheatsheet"
 - [New CSS in Production](https://sidigital.co/blog/bringing-new-css-techniques-to-production) "Bringing new CSS techniques to production"
 
+#### Styling
+- [Box Shadow Generator](https://brumm.af/shadows) "brumm shadows"
+
 #### Frontend Handoff
 - [CSS Scan](https://getcssscan.com/?ref=producthunt) "fastest way to inspect CSS"
 - [Sketch to SPA](https://github.com/xlayers/xlayers) "convert Sketch UI into framework components"
