@@ -172,10 +172,14 @@ Design, prototype, collaborate all in one place."
 - [Typography in Design Systems](https://medium.com/eightshapes-llc/typography-in-design-systems-6ed771432f1e) "EightShapes"
 - [Color Palette Framework](https://medium.com/sketch-app-sources/building-a-color-palette-framework-96dbda541c2e) "How to define a framework of colors while building a color palette for your brand"
 
-#### DS Examples
+#### DS Repos
 - [Adele DS Repo](https://adele.uxpin.com) "Design Systems and Pattern Libraries Repository"
 - [Designer Lynx Repo](https://www.designerlynx.co/design-systems) "The best design systems"
 - [Alex Pate Repo](https://github.com/alexpate/awesome-design-systems) "A collection of awesome design systems"
+
+### Design Systems
+- [Biings Design System](https://biings.design/#/) "The single source of truth for building Biings products."
+- [Elastic UI Framework](https://elastic.github.io) "Design library in use at Elastic to build internal products that need to share our aesthetics. "
 - [Atlassian Design](https://atlassian.design) "Atlassian’s end-to-end design language"
 - [Hudl Uniform DSL](http://uniform.hudl.com) "Hudl Design System"
 - [IBM Carbon DSL](https://www.carbondesignsystem.com) "Carbon Design System"
