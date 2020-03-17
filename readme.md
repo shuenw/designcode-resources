@@ -43,6 +43,7 @@
 
 #### Colors
 - [Color Scale Hihayk](https://hihayk.github.io/scale/) "Color scale generator"
+- [PCM Color Mixer] (https://colormixer.web.app/?ref=producthunt) "Parametric Color Mixer"
 - [Contrast checker - Colorable](https://colorable.jxnblk.com/25526b/f8fafd) "Check color contrast compliance"
 - [Contrast checker - Cloudflare](https://cloudflare.design/color/) "Check color contrast"
 - [HSL in CSS](https://chromatichq.com/blog/understanding-and-using-hsl-your-css) "Understanding HSL in CSS"
