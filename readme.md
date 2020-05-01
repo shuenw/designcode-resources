@@ -108,8 +108,6 @@
 #### Framer X
 - [Overrides](https://framerbook.com/x/overrides/) "Framer Book - Framer X Overrides"
 - [Framer React Guide](https://paper.dropbox.com/doc/Framer-ES6-React-Guide--AfOVBiAEfZnaSBJ9FicRqEamAg-Th7joG9fFSSiyZgOFYqj6) "Framer ES6/React Guide"
-- [Learn Design System](https://framer-learn-docs.netlify.com/) Design system tutorial
-- [Learn Framer Git](https://paper.dropbox.com/doc/Setting-up-the-Framer-Learn-Github-Repository--Afb6wE6k8oA6BSyEiC0_GqQ8AQ-YAj8HP3zb2e6M4TX2N1AQ) Learning Framer with git projects
 
 #### Interaction Design Tools
 - [Protopie](https://gitlab.com) "The way you speak, the way you prototype."
@@ -140,6 +138,10 @@ Design, prototype, collaborate all in one place."
 
 #### Code Documentation
 - [Gitlab](https://gitlab.com/) "A single application for the entire software development lifecycle."
+
+
+#### Code Snippets
+- [Codespace](https://codespace.app/?ref=producthunt) "The code snippet manager you've been waiting for"
 
 #### Staging & Hosting
 - [Sourcetree](https://www.sourcetreeapp.com) "Simplicity and power in a beautiful Git GUI"
