@@ -129,6 +129,9 @@ Design, prototype, collaborate all in one place."
 - [Flexbox Cheatsheet](https://yoksel.github.io/flex-cheatsheet/#display) "Flexbox Cheatsheet"
 - [New CSS in Production](https://sidigital.co/blog/bringing-new-css-techniques-to-production) "Bringing new CSS techniques to production"
 
+### UI Interaction
+- [how to manage HTML DOM with vanilla JavaScript only?](https://htmldom.dev/)
+
 #### Styling
 - [Box Shadow Generator](https://brumm.af/shadows) "brumm shadows"
 
