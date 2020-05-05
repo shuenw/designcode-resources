@@ -39,13 +39,6 @@
 - [Dribbble tags](https://dribbble.com/tags) "Dribbble sorted with tags"
 - [HeyNishi](https://www.heynishi.com) "The Place to Go for Copywriting Inspiration"
 
-#### Sketch Plugins
-** Organization **
-- [Rename It](https://rodi01.github.io/RenameIt/) "Rename layers"
-- [Symbol Instance Renamer](https://github.com/sonburn/symbol-instance-renamer) "Rename symbols to source"
-- [Select Similar Layers](https://github.com/wonderbit/sketch-select-similar-layers) "Select similar layers"
-- [Automate Sketch](https://github.com/Ashung/Automate-Sketch) "File cleanup"
-
 #### Design Versioning
 - [Abstract](https://www.abstract.com/) "The modern design workflow"
 - [PlantApp](https://plantapp.io/) "Version control for designers"
