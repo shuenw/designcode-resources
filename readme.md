@@ -122,21 +122,14 @@ Design, prototype, collaborate all in one place."
 - [Flexbox Cheatsheet](https://yoksel.github.io/flex-cheatsheet/#display) "Flexbox Cheatsheet"
 - [New CSS in Production](https://sidigital.co/blog/bringing-new-css-techniques-to-production) "Bringing new CSS techniques to production"
 
-### UI Interaction
+#### UI Interaction
 - [how to manage HTML DOM with vanilla JavaScript only?](https://htmldom.dev/)
 
 #### Styling
 - [Box Shadow Generator](https://brumm.af/shadows) "brumm shadows"
 
-#### Frontend Handoff
-- [CSS Scan](https://getcssscan.com/?ref=producthunt) "fastest way to inspect CSS"
-- [Sketch to SPA](https://github.com/xlayers/xlayers) "convert Sketch UI into framework components"
-
-#### Code Documentation
-- [Gitlab](https://gitlab.com/) "A single application for the entire software development lifecycle."
-
-
 #### Code Snippets
+- [Gitlab](https://gitlab.com/) "A single application for the entire software development lifecycle."
 - [Codespace](https://codespace.app/?ref=producthunt) "The code snippet manager you've been waiting for"
 
 #### Staging & Hosting
