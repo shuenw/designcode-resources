@@ -88,6 +88,7 @@
 #### Typefaces
 - [Inter UI](https://github.com/rsms/inter) "Inter UI Typeface"
 - [Metropolis](https://github.com/chrismsimpson/Metropolis) "A modern, geometric typeface"
+- [Apple Catalina](https://typography.guru/journal/awesome-catalina-fonts/)"Catalina fonts"
 
 #### Type Tools
 - [Glyphy](https://www.glyphy.io/?ref=producthunt) "Copy and paste glyphs"
