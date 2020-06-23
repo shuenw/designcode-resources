@@ -76,6 +76,9 @@
 - [Blobmaker](https://www.blobmaker.app) "Blobmaker"
 - [Doodle](https://www.opendoodles.com/?ref=producthunt) "Open Doodles"
 
+#### Examples
+- [Nice, Very Nice] (https://www.niceverynice.com/components?ref=producthunt) "A design inspirational library featuring finest ui/ux patterns, layouts and design examples. Learn by the best and build better products."
+
 ## Typography
 
 #### Typesetting
