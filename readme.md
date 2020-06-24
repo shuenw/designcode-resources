@@ -22,7 +22,8 @@
 - [Typography](#Typography)
 
 ## Ideation
-- [Whimsica](https://whimsical.co)  "Communicate visually at the speed of thought."
+- [Untools](https://untools.co) "Collection of thinking tools and frameworks to help you solve problems, make decisions and understand systems."
+- [Whimsica](https://whimsical.co) "Communicate visually at the speed of thought."
 - [Overflow](https://overflow.io) "Turn your designs into playable user flow diagrams that tell a story."
 - [Octopus.do](https://octopus.do) "Visual sitemaps and estimates."
 - [Walling](https://walling.app) "Walling will help you build your network of ideas and inspiration, and use it to curate content for your next project or research."
