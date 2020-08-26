@@ -80,6 +80,7 @@
 
 #### Patterns
 - [Quickly for Sketch] (http://www.tryquickly.com/quickly/) "Free generative design tool, to help you quickly creates trendy vector shapes."
+- [Magic Pattern] (https://www.magicpattern.design/?ref=producthunt) "The magic geometric patterns editor."
 
 #### Examples
 - [Nice, Very Nice] (https://www.niceverynice.com/components?ref=producthunt) "A design inspirational library featuring finest ui/ux patterns, layouts and design examples. Learn by the best and build better products."
