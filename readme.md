@@ -8,11 +8,11 @@
 - [Supernova Studio](https://supernova.io) "Bring mobile app UIs to life in minutes by converting Sketch and Adobe XD designs into native frontend code for Flutter, iOS, Android and React Native.
 
 #### Design Code for Web Apps
-- [Phase](https://phase.com) "Design and prototype websites and apps intuitively, in a new product reworked for the digital age."
+- [Plasmic](https://www.plasmic.app) "the fast and fun visual UI builder for React"
+- [Relate.app](https://relate.app) "visual development environment for fast, live collaboration."
 - [Interplay](https://interplayapp.com) "Connect design and engineering, with Interplay"
 - [Hadron](https://hadron.app) "a development environment for designers and developers who work together towards the same goal."
 - [Modulz](https://www.modulz.app) "Design, develop, document and deploy your design system—without writing code."
-- [Relate.app](https://relate.app) "visual development environment for fast, live collaboration."
 - [Alva](https://meetalva.io) "Create living prototypes with code components."
 
 
@@ -183,6 +183,7 @@ Design, prototype, collaborate all in one place."
 - [Color Palette Framework](https://medium.com/sketch-app-sources/building-a-color-palette-framework-96dbda541c2e) "How to define a framework of colors while building a color palette for your brand"
 
 #### DS Repos
+- [Design Encyclopedia](https://design-encyclopedia.webflow.io) "Design Encylopedia"
 - [Adele DS Repo](https://adele.uxpin.com) "Design Systems and Pattern Libraries Repository"
 - [Designer Lynx Repo](https://www.designerlynx.co/design-systems) "The best design systems"
 - [Alex Pate Repo](https://github.com/alexpate/awesome-design-systems) "A collection of awesome design systems"
