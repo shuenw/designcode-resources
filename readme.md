@@ -2,6 +2,11 @@
 ## Design Code Tools
 > A repo specifically for end to end product design workflows, with a special emphasis on unifying design and code.
 
+### UI Engineering Paradigms
+- [Pure React](https://daveceddia.com/pure-react/)"Learn vanilla React, without all the libraries."
+- [React Variants](https://blog.bitsrc.io/design-systems-react-buttons-with-the-base-variant-pattern-c56a3b394aaf)"Design Systems: Base + Variants pattern"
+- [Vue Component Slots](https://vuejs.org/v2/guide/components-slots.html)"Vue implements a content distribution API to serve as distribution outlets for content."
+
 #### Design Code for Mobile
 - [Bravo Studio App](https://www.bravostudio.app/?ref=producthunt) "Where your designs become real native apps"
 - [Lightwell](https://lightwell.pro) "Design to Code for Native Mobile"
@@ -15,7 +20,6 @@
 - [Modulz](https://www.modulz.app) "Design, develop, document and deploy your design system—without writing code."
 - [Alva](https://meetalva.io) "Create living prototypes with code components."
 
-
 #### Contents
 - [Sketch Plugins](#Sketch-Plugins)
 - [Frontend Tools](#Frontend-Tools)
@@ -27,9 +31,8 @@
 - [Overflow](https://overflow.io) "Turn your designs into playable user flow diagrams that tell a story."
 - [Octopus.do](https://octopus.do) "Visual sitemaps and estimates."
 - [Walling](https://walling.app) "Walling will help you build your network of ideas and inspiration, and use it to curate content for your next project or research."
-- 
 
-## UI Design
+## Interface Design
 
 #### User Interface
 - [UI Design Knowledge Base](https://www.waveguide.io) "design knowledge bank"
@@ -38,7 +41,6 @@
 - [Muzli Search](https://search.muz.li/?utm_source=product_hunt&utm_medium=referral&utm_campaign=muzli_search&ref=producthunt) "Web-wide search for design inspiration"
 - [UIJar](https://uijar.com) "Handpicked design inspiration for your real life projects"
 - [UI Mobbin](https://mobbin.design) "Design Patterns"
-- [Dribbble tags](https://dribbble.com/tags) "Dribbble sorted with tags"
 - [HeyNishi](https://www.heynishi.com) "The Place to Go for Copywriting Inspiration"
 
 #### Design Versioning
@@ -87,6 +89,10 @@
 
 ## Typography
 
+#### Type Pairings
+- [Typewolf](https://www.typewolf.com) "What's Trending in Type"
+- [FontPair](https://fontpair.co) "Helps you Pair Google Fonts"
+
 #### Typesetting
 - [Zellkw Type Vertical Rhythm](https://zellwk.com/blog/why-vertical-rhythms/) "Why is Vertical Rhythm an Important?"
 - [Typography.js](http://kyleamathews.github.io/typography.js/) "A powerful toolkit for building websites with beautiful design."
@@ -114,8 +120,7 @@
 
 #### Interaction Design Tools
 - [Protopie](https://gitlab.com) "The way you speak, the way you prototype."
-- [UX Pin](https://www.uxpin.com/) "If you can imagine it, you can design it.
-Design, prototype, collaborate all in one place."
+- [UX Pin](https://www.uxpin.com/) "If you can imagine it, you can design it. Design, prototype, collaborate all in one place."
 - [Flowbase](https://www.flowbase.co) "Webflow Assets"
 
 #### Animation
@@ -173,7 +178,6 @@ Design, prototype, collaborate all in one place."
 
 
 ## Design Systems
-
 
 #### DS Configuration
 - [Typographic Color](http://uniform.hudl.com/guidelines/colors/content/design/) "Uniform colors for typography"
