@@ -1,6 +1,6 @@
 
 ## Design Code Tools
-> A repo specifically geared towards end to end product design workflows.
+> A repo specifically for end to end product design workflows, with a special emphasis on unifying design and code.
 
 #### Design Code for Mobile
 - [Bravo Studio App](https://www.bravostudio.app/?ref=producthunt) "Where your designs become real native apps"
@@ -108,7 +108,7 @@
 
 ## Interaction Design
 
-#### Framer X
+#### Framer
 - [Overrides](https://framerbook.com/x/overrides/) "Framer Book - Framer X Overrides"
 - [Framer React Guide](https://paper.dropbox.com/doc/Framer-ES6-React-Guide--AfOVBiAEfZnaSBJ9FicRqEamAg-Th7joG9fFSSiyZgOFYqj6) "Framer ES6/React Guide"
 
@@ -174,8 +174,6 @@ Design, prototype, collaborate all in one place."
 
 ## Design Systems
 
-#### Setup
-- [DSNews - Adopt a Design System](https://www.designernews.co/stories/90578-ask-dn--how-to-adopt-a-design-system) "How to adopt a DS Q&A"
 
 #### DS Configuration
 - [Typographic Color](http://uniform.hudl.com/guidelines/colors/content/design/) "Uniform colors for typography"
