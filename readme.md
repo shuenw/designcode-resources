@@ -2,7 +2,7 @@
 ## Design Code Tools
 > A repo specifically for end to end product design workflows, with a special emphasis on unifying design and code.
 
-### UI Engineering Paradigms
+#### UI Engineering Paradigms
 - [Pure React](https://daveceddia.com/pure-react/)"Learn vanilla React, without all the libraries."
 - [React Variants](https://blog.bitsrc.io/design-systems-react-buttons-with-the-base-variant-pattern-c56a3b394aaf)"Design Systems: Base + Variants pattern"
 - [Vue Component Slots](https://vuejs.org/v2/guide/components-slots.html)"Vue implements a content distribution API to serve as distribution outlets for content."
