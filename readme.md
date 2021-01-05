@@ -7,13 +7,14 @@
 - [React Variants](https://blog.bitsrc.io/design-systems-react-buttons-with-the-base-variant-pattern-c56a3b394aaf) "Design Systems: Base + Variants pattern"
 - [Vue Component Slots](https://vuejs.org/v2/guide/components-slots.html) "Vue implements a content distribution API to serve as distribution outlets for content."
 
-#### Design Code for Mobile
+#### Design/Code for Mobile Development
 - [Bravo Studio App](https://www.bravostudio.app/?ref=producthunt) "Where your designs become real native apps"
 - [Lightwell](https://lightwell.pro) "Design to Code for Native Mobile"
 - [Supernova Studio](https://supernova.io) "Bring mobile app UIs to life in minutes by converting Sketch and Adobe XD designs into native frontend code for Flutter, iOS, Android and React Native.
 
-#### Design Code for Web Apps
+#### Design/Code for Web Apps
 - [Plasmic](https://www.plasmic.app) "the fast and fun visual UI builder for React"
+- [Visly App](https://visly.app) "design and build production-ready components"
 - [Relate.app](https://relate.app) "visual development environment for fast, live collaboration."
 - [Interplay](https://interplayapp.com) "Connect design and engineering, with Interplay"
 - [Hadron](https://hadron.app) "a development environment for designers and developers who work together towards the same goal."
@@ -105,6 +106,7 @@
 - [Metropolis](https://github.com/chrismsimpson/Metropolis) "A modern, geometric typeface"
 - [Apple Catalina](https://typography.guru/journal/awesome-catalina-fonts/)"Catalina fonts"
 - [Space Grotesk](https://github.com/floriankarsten/space-grotesk/releases)"Space Gritesk | FlorianKarstan"
+- [Apple Fonts](https://developer.apple.com/fonts/) "Tools to use system fonts for Apple platforms"
 
 #### Type Tools
 - [Glyphy](https://www.glyphy.io/?ref=producthunt) "Copy and paste glyphs"
@@ -133,15 +135,18 @@
 
 ## Front End Design
 
-#### UI Layout
+#### SwiftUI Docs by Rob Sturgeon
+- [SwiftUI Documentation](https://medium.com/better-programming/the-complete-swiftui-documentation-youve-been-waiting-for-fdfe7241add9) "Go beyond Apple’s docs."
+
+#### Web UI Layout
 - [CSS Grid Generator](https://cssgrid-generator.netlify.com/?ref=producthunt) "generate CSS grids"
 - [Flexbox Cheatsheet](https://yoksel.github.io/flex-cheatsheet/#display) "Flexbox Cheatsheet"
 - [New CSS in Production](https://sidigital.co/blog/bringing-new-css-techniques-to-production) "Bringing new CSS techniques to production"
 
-#### UI Interaction
+#### Web UI Interaction
 - [how to manage HTML DOM with vanilla JavaScript only?](https://htmldom.dev/)
 
-#### Styling
+#### Web Styling
 - [Box Shadow Generator](https://brumm.af/shadows) "brumm shadows"
 
 #### Code Snippets
