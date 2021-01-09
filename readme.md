@@ -7,13 +7,10 @@
 - [React Variants](https://blog.bitsrc.io/design-systems-react-buttons-with-the-base-variant-pattern-c56a3b394aaf) "Design Systems: Base + Variants pattern"
 - [Vue Component Slots](https://vuejs.org/v2/guide/components-slots.html) "Vue implements a content distribution API to serve as distribution outlets for content."
 
-#### Swift UI
-- [Interact App - a Field Guide](https://apps.apple.com/app/id1528095640) "a field guide to SwiftUI"
-
-#### Design/Code for Mobile Development
+#### Low Code for Mobile Apps
+- [Draftbit](https://draftbit.com) "Build your app visually, React Native"
 - [Bravo Studio App](https://www.bravostudio.app/?ref=producthunt) "Where your designs become real native apps"
 - [Lightwell](https://lightwell.pro) "Design to Code for Native Mobile"
-- [Supernova Studio](https://supernova.io) "Bring mobile app UIs to life in minutes by converting Sketch and Adobe XD designs into native frontend code for Flutter, iOS, Android and React Native.
 
 #### Design/Code for Web Apps
 - [Plasmic](https://www.plasmic.app) "the fast and fun visual UI builder for React"
@@ -136,10 +133,13 @@
 - [Overframe.xyz](https://overframe.xyz) "Record your prototype & app with device frame overlay."
 - [Mockmatic](https://store.framer.com/package/djfumberger/mockmatic) "Mockups in Framer X"
 
-## Front End Design
 
-#### SwiftUI Docs by Rob Sturgeon
+## Front end UI / Mobile
+
 - [SwiftUI Documentation](https://medium.com/better-programming/the-complete-swiftui-documentation-youve-been-waiting-for-fdfe7241add9) "Go beyond Apple’s docs."
+- [Interact App - a Field Guide](https://apps.apple.com/app/id1528095640) "a field guide to SwiftUI"
+
+## Front end UI / Web
 
 #### Web UI Layout
 - [CSS Grid Generator](https://cssgrid-generator.netlify.com/?ref=producthunt) "generate CSS grids"
@@ -187,6 +187,9 @@
 
 
 ## Design Systems
+
+### Design System Managers
+- [Supernova.io](https://www.supernova.io) "Tightly sync the design and code in real time."
 
 #### DS Configuration
 - [Typographic Color](http://uniform.hudl.com/guidelines/colors/content/design/) "Uniform colors for typography"
